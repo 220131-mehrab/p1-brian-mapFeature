@@ -1,0 +1,11 @@
+RowNumber,AnimalName,AnimalGender,AnimalBirthMonth,BreedName,Borough,ZipCode,LicenseIssuedDate,LicenseExpiredDate,Extract Year,Unique Dog ID
+1,PAIGE,F,2014,American Pit Bull Mix / Pit Bull Mix,,10035,09/12/2014,09/12/2017,2016,
+2,YOGI,M,2010,Boxer,,10465,09/12/2014,10/02/2017,2016,
+3,ALI,M,2014,Basenji,,10013,09/12/2014,09/12/2019,2016,
+4,QUEEN,F,2013,Akita Crossbreed,,10013,09/12/2014,09/12/2017,2016,
+5,LOLA,F,2009,Maltese,,10028,09/12/2014,10/09/2017,2016,
+6,IAN,M,2006,Unknown,,10013,09/12/2014,10/30/2019,2016,
+7,BUDDY,M,2008,Unknown,,10025,09/12/2014,10/20/2017,2016,
+8,CHEWBACCA,F,2012,Labrador Retriever Crossbreed,,10013,09/12/2014,10/01/2019,2016,
+9,HEIDI-BO,F,2007,Dachshund Smooth Coat,,11215,09/13/2014,04/16/2017,2016,
+10,MASSIMO,M,2009,"Bull Dog, French",,11201,09/13/2014,09/17/2017,2016,
